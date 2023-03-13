@@ -9,4 +9,4 @@ hello_world file is a script that prints “Hello, World”, followed by a new l
 The file iacta will be in the working directory
 
 You’re not allowed to use sed.
-
+vi 7-file Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
